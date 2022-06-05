@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Yoon Guilherme&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<p align="center">Hey my name is Yoon Guilherme I'm studying information security at IESB.<br>I like to play ctf, watch anime and develop some random projects.</p>
+<p align="center">Hey my name is Yoon Guilherme I'm studying information security at IESB.<br>I like to play ctf, develop some random projects and watch anime.</p>
 
 
 <br>
