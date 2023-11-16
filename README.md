@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Micromalware&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=M4lw4r3&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<p align="center">Hi I'm Micromalware I'm a Security Researcher.</p>
+<p align="center">Hi I'm M4lw4r3 I'm a Security Researcher.</p>
 
 <div align="center">
   <img src="https://media.tenor.com/HRE8UMppPNYAAAAd/hackerman-pc.gif">
