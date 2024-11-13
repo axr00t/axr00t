@@ -3,7 +3,7 @@
 <p align="center">Hi I'm axroot I'm a Security Researcher.</p>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/901141588819842353/A953AF6B5645E476D70A4187E7DF7B1B55B5444F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 
 <br>
