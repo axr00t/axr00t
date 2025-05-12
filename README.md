@@ -2,10 +2,6 @@
 
 <p align="center">Hi I'm axroot. I currently work as a security researcher.</p>
 
-<div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/901141588819842353/A953AF6B5645E476D70A4187E7DF7B1B55B5444F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-</div>
-
 <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=axr00t&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117" alt="axroot github stats" /> 
